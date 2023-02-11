@@ -1,6 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 # Live(Netlify)
+[Demo](https://flourishing-nougat-48fffa.netlify.app/)
 
 # JavaScript Countdown
 Goal: A simple JavaScript countdown timer, counting down to an entered date.
